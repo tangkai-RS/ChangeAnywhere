@@ -11,7 +11,7 @@ Remote sensing change detection (CD) is a pivotal technique that pinpoints chang
 - [ ] release the ChangeAnywhere-100K.
 - [ ] release the training codes of the ChangeAnywhere.
 
-## Pretrained Models on the ChangeAnywhere-100K
+## Pretrained models on the ChangeAnywhere-100K
 [Download link of Google Drive](https://drive.google.com/file/d/19jI9Zi2Di0gD-hoZY-6xZ015senCsYBG/view?usp=sharing).  
 [Download link of Baidu Drive](https://pan.baidu.com/s/16LEXz6hIvn6CQtlupDsvVQ?pwd=9591).
 
@@ -41,7 +41,7 @@ python tools/test.py workdir/sysucd-100%/changer_ex_r18_256x256_50e_sysucd-100%_
 # get metrics
 python tools/test.py workdir/sysucd-100%/changer_ex_r18_256x256_50e_sysucd-100%_finetune_workdir/changer_ex_r18_256x256_50e_sysucd-100%_finetune.py workdir/sysucd-100%/changer_ex_r18_256x256_50e_sysucd-100%_finetune_workdir/last.pth --work-dir workdir/sysucd-100%/changer_ex_r18_256x256_50e_sysucd-100%_finetune_workdir >> workdir/sysucd-100%/changer_ex_r18_256x256_50e_sysucd-100%_finetune_workdir/test_log.log 2>&1
 ```
-## Few-shot
+### Few-shot training
 Few-shot dataset split txt with the following folder structure 
 ```
 │ChangAnywhere/
