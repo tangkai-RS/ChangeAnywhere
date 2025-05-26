@@ -1,3 +1,5 @@
+## This repository is no longer being maintained, and we will release an upgraded version of ChangeAnywhere soon!
+
 ## ChangeAnywhere
 [ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model](https://arxiv.org/abs/2404.08892)
 
@@ -6,8 +8,6 @@ Remote sensing change detection (CD) is a pivotal technique that pinpoints chang
 
 ## TODO
 - [x] 2024-04 release the pre-trained weights of binary change detection models and configs.
-- [ ] 2024-07 release the pre-trained weights of semantic change detection models and configs.
-- [ ] 2024--- release the generation codes and model weights of the ChangeAnywhere.
 - [ ] release the ChangeAnywhere-100K.
 - [ ] release the training codes of the ChangeAnywhere.
 
