@@ -1,4 +1,7 @@
-## ChangeAnywhere-100K [Download link](https://pan.baidu.com/s/1EBrNrDXMI2ZiMvB-ZnXrag?pwd=qhn1), Password: qhn1. 
+## ChangeAnywhere-100K Download link
+[Baidu Drive](https://pan.baidu.com/s/1EBrNrDXMI2ZiMvB-ZnXrag?pwd=qhn1), Password: qhn1. 
+[Hugging Face](https://huggingface.co/datasets/tangkaii/ChangeAnywhere-100K/tree/main).
+
 ## Note: This repository is no longer being maintained, and we will release an upgraded version of ChangeAnywhere soon!
 
 ## ChangeAnywhere
@@ -13,8 +16,8 @@ Remote sensing change detection (CD) is a pivotal technique that pinpoints chang
 - [ ] Release the training codes of ChangeAnywhere.
 
 ## Pretrained models on the ChangeAnywhere-100K
-[Download link of Google Drive](https://drive.google.com/file/d/19jI9Zi2Di0gD-hoZY-6xZ015senCsYBG/view?usp=sharing).  
-[Download link of Baidu Drive](https://pan.baidu.com/s/16LEXz6hIvn6CQtlupDsvVQ?pwd=9591).
+[Google Drive](https://drive.google.com/file/d/19jI9Zi2Di0gD-hoZY-6xZ015senCsYBG/view?usp=sharing).  
+[Baidu Drive](https://pan.baidu.com/s/16LEXz6hIvn6CQtlupDsvVQ?pwd=9591).
 
 Pretrained Models with the following folder structure
 ```
